@@ -6,7 +6,7 @@ public class DiceRoll {
 
 	public static void main(String[] args) {
 		// diceRoll("2D6+20");
-		diceRoll("6D6-76");
+		diceRoll("++d34");
 	}
 
 	static int diceRoll(String code) {
